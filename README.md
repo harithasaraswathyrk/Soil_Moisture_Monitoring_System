@@ -1,1 +1,0 @@
-# Soil_Moisture_Monitoring_System
